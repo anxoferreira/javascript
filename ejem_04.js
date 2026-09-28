@@ -40,3 +40,6 @@ let producto1 = {
 };
 
 let producto2 = producto1;
+
+console.log(producto1.nombre)
+console.log(producto2.nombre)
