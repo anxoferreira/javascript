@@ -1,0 +1,12 @@
+{
+    "nombre":"juan",
+    "edad": 20,
+    "casado":false,
+    "altura":1.9,
+    "hijos": ["ana", "pepe"],
+    "direccion": {
+        "calle":"c/ falsa",
+        "numero": 123
+    },
+    "pelicula":null
+}
